@@ -1,4 +1,8 @@
 body {
+    background-color: blue !important;
+}
+
+body {
     background-color: #e6f0ff;
     font-family: Arial, sans-serif;
     padding: 20px;
